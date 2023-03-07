@@ -5,6 +5,8 @@
 ![1](https://github.com/0xbitx/Dedsec-Tiktok/blob/main/banner.png)
 <br>
 ![2](https://github.com/0xbitx/Dedsec-Tiktok/blob/main/banner1.png)
+<br>
+![3](https://github.com/0xbitx/Dedsec-Tiktok/blob/main/discord.png)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
