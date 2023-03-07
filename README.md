@@ -1,6 +1,9 @@
 
 # Tiktok Phishing tool using discord webhook
 
+### METHOD
+When victim enter his credentials, you need to go to original website and use those credentials to send real OTP to victim. Once he enter that OTP such OTP will also be there with you and you will be allowed to login the account before him.
+
 ### SCREENSHOT
 ![1](https://github.com/0xbitx/Dedsec-Tiktok/blob/main/banner.png)
 <br>
