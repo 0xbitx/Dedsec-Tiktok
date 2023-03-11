@@ -1,4 +1,5 @@
 
+# UNDER DEV !! some error
 # Tiktok Phishing tool using discord webhook
 
 ### METHOD
